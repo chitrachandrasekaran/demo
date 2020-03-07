@@ -1,1 +1,1 @@
-alias npp = "C:\\Program Files\\Notepad++\notepad.exe"`
+alias npp = "start notepad++.exe"`
